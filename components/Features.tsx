@@ -1,11 +1,9 @@
-import React from 'react'
+import React from "react";
 
-type Props = {}
+type Props = {};
 
 function Features({}: Props) {
-  return (
-    <div>Features</div>
-  )
+  return <div>Features</div>;
 }
 
-export default Features
+export default Features;

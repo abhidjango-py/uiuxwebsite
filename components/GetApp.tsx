@@ -1,11 +1,9 @@
-import React from 'react'
+import React from "react";
 
-type Props = {}
+type Props = {};
 
 function GetApp({}: Props) {
-  return (
-    <div>GetApp</div>
-  )
+  return <div>GetApp</div>;
 }
 
-export default GetApp
+export default GetApp;

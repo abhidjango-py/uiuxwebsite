@@ -1,11 +1,9 @@
-import React from 'react'
+import React from "react";
 
-type Props = {}
+type Props = {};
 
 function Guide({}: Props) {
-  return (
-    <div>Guide</div>
-  )
+  return <div>Guide</div>;
 }
 
-export default Guide
+export default Guide;
