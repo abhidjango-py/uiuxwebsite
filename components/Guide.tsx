@@ -24,7 +24,7 @@ function Guide({}: Props) {
           </p>
         </div>
       </div>
-      <div className="flex-center max-container relative w-full">
+      <div className="flexCenter max-container relative w-full">
         <Image
           className="w-full object-cover object-center 2xl:rounded-5xl lg:rounded-5xl"
           src="/boat.png"
